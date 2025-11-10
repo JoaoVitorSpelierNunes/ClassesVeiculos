@@ -81,7 +81,10 @@ Cilindrada: 500cc
 
 Basta executar o arquivo gerenciador.java localizado em src/main/java/gerenciador/". É possível criar outros objetos seguindo o modelo já presente no código.
 
-🧠 Conceitos Aplicados
+---
+
+
+## 🧠 Conceitos Aplicados
 Classe abstrata: usada para definir a estrutura base comum.
 
 Herança: permite que Carro e Moto reutilizem atributos e métodos de Veiculo.
