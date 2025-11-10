@@ -79,24 +79,8 @@ Cilindrada: 500cc
 
 ## 🚀 Como Executar o Projeto  
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/JoaoVitorSpelierNunes/ClassesVeiculos.git
-Acesse o diretório do projeto:
+Basta executar o arquivo gerenciador.java localizado em src/main/java/gerenciador/". É possível criar outros objetos seguindo o modelo já presente no código.
 
-bash
-Copiar código
-cd sistema-gerenciamento-veiculos
-Compile os arquivos Java:
-
-bash
-Copiar código
-javac src/*.java
-Execute o programa:
-
-bash
-Copiar código
-java src.Main
 🧠 Conceitos Aplicados
 Classe abstrata: usada para definir a estrutura base comum.
 
