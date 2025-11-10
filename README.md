@@ -15,13 +15,10 @@ O sistema representa um **gerenciador simples de veículos**, onde são criadas 
 ## 🧱 Estrutura do Projeto  
 
 📁 src/main/java/gerenciador
-├── Veiculo.java # Classe abstrata base
-
-├── Carro.java # Classe derivada de Veiculo
-
-├── Moto.java # Classe derivada de Veiculo
-
-└── Main.java # Classe principal para execução do programa
+├── carro.java # Classe derivada de Veiculo
+├── gerenciador.java # Classe principal para execução do programa
+├── moto.java # Classe derivada de Veiculo
+└── veiculo.java # Classe abstrata base
 
 
 ---
